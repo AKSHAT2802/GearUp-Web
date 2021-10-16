@@ -48,7 +48,11 @@ label .glyphicon {
     -webkit-transform-origin: 50% 50%;
     -ms-animation: animationFrames ease .8s;
     -ms-animation-iteration-count: 1;
-    -ms-transform-origin: 50% 50%
+    -ms-transform-origin: 50% 50%;
+
+    
+
+    
 }
 .element-animation2 {
     animation: animationFrames ease 1s;

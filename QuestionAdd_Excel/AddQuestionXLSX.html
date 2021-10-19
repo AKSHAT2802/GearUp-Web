@@ -1,4 +1,5 @@
-
+<!--Refrence link for code  https://www.webslesson.info/2021/07/how-to-display-excel-data-in-html-table.html -->
+<!--Refrence video link for implementation https://www.youtube.com/watch?v=u7R7yuQ6g9Y -->
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -75,7 +76,7 @@ excel_file.addEventListener('change', (event) => {
                     else
                     {
 
-                        table_output += '<td>'+sheet_data[row][cell]+'</td>';
+                        table_output += '<td><input type="text" value="'+sheet_data[row][cell]+'"></input></td>';
 
                     }
 

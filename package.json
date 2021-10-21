@@ -1,0 +1,24 @@
+{
+  "name": "GearUp_Web_PART",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^9.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AKSHAT2802/GearUp-Web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AKSHAT2802/GearUp-Web/issues"
+  },
+  "homepage": "https://github.com/AKSHAT2802/GearUp-Web#readme"
+}
